@@ -6,15 +6,17 @@
 
 </div>
 
-### 🙋‍♂️ About Me
+###  About Me
 
-- 🎓 3rd Year **B.E. in Computer Science (AI & ML)** @ Anjuman Institute of Technology and Management, Bhatkal, Karnataka — CGPA **8.0/10**
-- 💻 I build full-stack apps with the **MERN stack** and love experimenting with **Machine Learning & Computer Vision**
-- 🧠 Currently working on a **Point-of-Interest Recommender** that blends ML with geospatial/Maps APIs
-- 🌱 Sharpening my skills in Data Structures & Algorithms, Databases, and applied ML
-- 📫 Reach me at **mohammedenad521@gmail.com**
-- 📍 Based in Bhatkal, Karnataka, India
-
+-  4th Year **B.E. CSE (AI & ML)** student @ Anjuman Institute of Technology and Management
+-  Passionate about **Generative AI, Machine Learning, Computer Vision & Agentic AI**
+-  I build **full-stack applications and AI-powered systems** using React, Node.js, Python & Django
+-  Currently exploring **LLMs, RAG, Multi-Agent Systems, AI Agents & AI-driven software engineering**
+-  I love turning ideas into **real, usable products** — from web applications to intelligent AI systems
+-  Building and experimenting with projects for **hackathons, real-world problems & developer communities**
+-  **Python • JavaScript • React • Node.js • Django • SQL • Git • Docker**
+-  Currently leveling up in **DSA, System Design, Cloud & LLM Engineering**
+-  **Building software. Exploring AI. Creating things that matter.**
 <br>
 
 ### 🛠️ Tech Stack
@@ -37,21 +39,22 @@
 
 <br>
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 📍 **[Point of Interest Recommender](https://github.com/H31S3NB3R4?tab=repositories)** *(in progress)* | Python · ML · Maps API | Location-aware recommendation engine combining ML models with geospatial data for personalized results |
-| 🏋️ **Gym Management System** | Node.js · Express · MongoDB · WhatsApp Business API | Full-stack platform for member registration, subscriptions & attendance, with WhatsApp OTP auth and automated renewal alerts |
-| ✋ **[Rock Paper Scissors – CV Game](https://github.com/H31S3NB3R4/Computer_vision_Projects)** | Python · OpenCV · ML | Real-time hand-gesture recognition using contour analysis and background subtraction |
-| 🍽️ **Restaurant Feedback System** | Python · MySQL · SQL | DBMS course project — relational schema + optimized queries for ratings & trend analysis |
-| 🌐 **[Personal Portfolio Website](https://github.com/H31S3NB3R4/PROJECT)** | HTML · CSS · JavaScript | Responsive, mobile-friendly portfolio showcasing my work |
+|  **DevForge AI** | React · Node.js · Express · Gemini · Multi-Agent AI | Autonomous AI software engineering team designed to plan, build, review and improve software |
+|  **Legal Metrology Compliance Checker** | Python · RAG · FAISS · Gemini · OCR | AI-powered system for detecting compliance violations in e-commerce product declarations |
+|  **OmniRoute** | Node.js · REST · Docker · AI APIs | Unified AI gateway for multi-provider routing, load balancing and AI usage tracking |
+|  **Point of Interest Recommender** | Python · ML · Maps API | ML-powered location recommendation engine using geospatial data |
+|  **Gym Management System** | React · Node.js · Express · MongoDB · WhatsApp API | Full-stack gym platform with authentication, subscriptions, attendance and automated notifications |
+|  **Rock Paper Scissors – CV Game** | Python · OpenCV · MediaPipe | Real-time computer vision game using webcam-based hand gesture recognition |
 
-📂 Explore more on my [repositories page](https://github.com/H31S3NB3R4?tab=repositories)
+ Explore more on my [repositories page](https://github.com/H31S3NB3R4?tab=repositories)
 
 <br>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=H31S3NB3R4&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
@@ -64,7 +67,7 @@
 
 <br>
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <div align="center">
 
