@@ -2,7 +2,7 @@
 
 <img src="./banner.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E93CAC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohammed+Enad+%F0%9F%91%8B;B.E+CSE+(AI+%26+ML)+Student;Building+with+Python%2C+MERN+%26+Computer+Vision;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E93CAC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohammed+Enad+%F0%9F%91%8B;B.E+CSE+(AI+%26+ML)+Student;Building+with+Python%2C+MERN+%26+Computer+Vision;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SV](https://readme-typing-svg.demolab.com/demo/?font=Outfit&weight=600&size=28&color=F5F5F5&lines=Hi%2C+I'm+Mohammed+Enad;Computer+Science+Engineer+%7C+AI+%26+ML)" />
 
 </div>
 
