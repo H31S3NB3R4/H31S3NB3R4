@@ -19,7 +19,7 @@
 -  **Building software. Exploring AI. Creating things that matter.**
 <br>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
