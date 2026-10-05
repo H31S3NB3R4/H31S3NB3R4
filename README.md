@@ -39,16 +39,17 @@
 
 <br>
 
-###  Featured Projects
+### Featured Projects
 
 | Project | Stack | Highlights |
 |---|---|---|
-|  **DevForge AI** | React · Node.js · Express · Gemini · Multi-Agent AI | Autonomous AI software engineering team designed to plan, build, review and improve software |
-|  **Legal Metrology Compliance Checker** | Python · RAG · FAISS · Gemini · OCR | AI-powered system for detecting compliance violations in e-commerce product declarations |
-|  **OmniRoute** | Node.js · REST · Docker · AI APIs | Unified AI gateway for multi-provider routing, load balancing and AI usage tracking |
-|  **Point of Interest Recommender** | Python · ML · Maps API | ML-powered location recommendation engine using geospatial data |
-|  **Gym Management System** | React · Node.js · Express · MongoDB · WhatsApp API | Full-stack gym platform with authentication, subscriptions, attendance and automated notifications |
-|  **Rock Paper Scissors – CV Game** | Python · OpenCV · MediaPipe | Real-time computer vision game using webcam-based hand gesture recognition |
+| **DevForge AI** | React · Node.js · Express · Gemini · Multi-Agent AI | AI software engineering team that plans, builds, reviews and improves software through specialized agents |
+| **Legal Metrology Compliance Checker** | Python · RAG · FAISS · Gemini · OCR | AI-powered system for analyzing e-commerce product declarations and detecting compliance violations |
+| **PC Slowdown Diagnoser** | Python · FastAPI · psutil · Gemini | Diagnostic tool that analyzes system performance, identifies likely causes of slowdowns and provides actionable recommendations |
+| **Point of Interest Recommender** | Python · Machine Learning · Maps API | ML-based recommendation system for suggesting relevant locations using geospatial data |
+| **Kiraa – AI Finance Controller** | Python · LLMs · Tool Calling · RAG | AI finance assistant for reconciliation, ledger analysis, forecasting and controlled financial actions |
+| **Rock Paper Scissors – CV Game** | Python · OpenCV · cvzone | Real-time computer vision game using webcam-based hand gesture detection |
+
 
  Explore more on my [repositories page](https://github.com/H31S3NB3R4?tab=repositories)
 
